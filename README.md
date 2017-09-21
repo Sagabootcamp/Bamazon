@@ -1,8 +1,8 @@
 ## Bamazon
 
-### OVERVIEW
+#### OVERVIEW
 
-This application is to display the products available on sale. It takes a database named Bamazon, a table named Products, and the # columns of ItemID, ProductName, DepartmentName, Price, and # StockQuantity.
+This application is to display the products available on sale. It takes a database named Bamazon, a table named products.
 
 ### Process
 
