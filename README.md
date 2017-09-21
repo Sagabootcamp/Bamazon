@@ -1,6 +1,6 @@
 ## Bamazon
 
-#### OVERVIEW
+### Overview
 
 This application is to display the products available on sale. It takes a database named Bamazon, a table named products.
 
